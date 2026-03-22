@@ -51,3 +51,12 @@ The project identifies meaningful buyer segments such as:
 ## Run the Streamlit App
 ```bash
 streamlit run app.py
+
+## Author
+
+**Kruthika Penugonda**
+Data Analyst Intern  
+
+This project applies data analysis and clustering techniques to understand buyer behavior and investment patterns in the real estate market.
+
+🔗 GitHub: https://github.com/pkruthika123
